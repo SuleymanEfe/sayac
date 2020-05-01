@@ -23,5 +23,6 @@ while True:
         break
     else:
         print(saniye, "saniye gecti..")
+        print("TEST")
         continue
 
