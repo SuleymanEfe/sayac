@@ -1,7 +1,7 @@
 import time
 import sys
 
-e
+
 saat = int(input("Saat: "))
 
 
